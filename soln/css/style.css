@@ -4,7 +4,7 @@ p.first {
    margin-right: auto;
    background-color: #00FF00;
    border: 2px solid black;
-   text-align: center;
+   text-align: right;
 }
 
 p.second {
